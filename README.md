@@ -1,6 +1,5 @@
-## 1 Để chạy app ban đầu kéo code của repo này 
-```bash
-git clone https://github.com/phenikaaphuoc/java_btl_of_phu.git
+## 1 Để chạy app
+Giải nén file zip vào folder tên Javacode
 ```
 ## 2. Khởi chạy và đăng nhập
 ```
