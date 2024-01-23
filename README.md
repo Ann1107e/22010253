@@ -1,5 +1,5 @@
 ## 1 Để chạy app
-Giải nén file zip vào folder tên Javacode
+Giải nén file zip tại https://github.com/Ann1107e/22010253 vào folder tên Javacode
 ```
 ## 2. Khởi chạy và đăng nhập
 ```
